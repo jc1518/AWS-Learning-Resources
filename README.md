@@ -15,6 +15,7 @@
 - [AWS Executive Insights](https://aws.amazon.com/executive-insights)
 - [AWS FAQ](https://aws.amazon.com/faqs/)
 - [AWS Knowledge Center](https://aws.amazon.com/premiumsupport/knowledge-center/)
+- [Amazon Trust Services](https://www.amazontrust.com/repository/)
 
 ## News and Blogs
 - [AWS Announcements](https://aws.amazon.com/new/)
