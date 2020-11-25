@@ -17,6 +17,7 @@
 - [AWS Knowledge Center](https://aws.amazon.com/premiumsupport/knowledge-center/)
 - [Amazon Trust Services](https://www.amazontrust.com/repository/)
 - [AWS Multi Accounts Security Strategy](https://d0.awsstatic.com/aws-answers/AWS_Multi_Account_Security_Strategy.pdf)
+- [AWS Tagging Best Practices](https://d1.awsstatic.com/whitepapers/aws-tagging-best-practices.pdf)
 
 ## News and Blogs
 - [AWS Announcements](https://aws.amazon.com/new/)
