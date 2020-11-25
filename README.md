@@ -25,6 +25,7 @@
 ## Workshops
 - [AWS Workshops](https://workshops.aws/)
 - [AWS Well-Architected Lab](https://www.wellarchitectedlabs.com/)
+- [AWS Control Tower Workshop](https://controltower.aws-management.tools/)
 
 ## Diagrams
 - [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)
