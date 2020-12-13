@@ -5,7 +5,6 @@
 - [AWS History](https://www.awsgeek.com/AWS-History/)
 - [AWS Documentation](https://docs.aws.amazon.com/)
 - [AWS Learning Library](https://www.aws.training/LearningLibrary)
-- [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/)
 - [Amazon Builders' Library](https://aws.amazon.com/builders-library)
 - [AWS Solutions Library](https://aws.amazon.com/solutions/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
@@ -17,7 +16,12 @@
 - [AWS Knowledge Center](https://aws.amazon.com/premiumsupport/knowledge-center/)
 - [Amazon Trust Services](https://www.amazontrust.com/repository/)
 - [AWS Multi Accounts Security Strategy](https://d0.awsstatic.com/aws-answers/AWS_Multi_Account_Security_Strategy.pdf)
+
+## Whitepaper
+- [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/)
 - [AWS Tagging Best Practices](https://d1.awsstatic.com/whitepapers/aws-tagging-best-practices.pdf)
+- [Building a Scalable and Secure Multi-VPC AWS Network Infrastructure](https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf)
+
 
 ## News and Blogs
 - [AWS Announcements](https://aws.amazon.com/new/)
